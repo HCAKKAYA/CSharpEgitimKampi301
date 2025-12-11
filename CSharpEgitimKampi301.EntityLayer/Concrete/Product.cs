@@ -17,5 +17,11 @@ namespace CSharpEgitimKampi301.EntityLayer.Concrete
         public decimal ProductPrice { get; set; }
 
         public string ProductDescription { get; set; }
+
+        public int CategoryId { get; set; }
+
+        public virtual Category Category { get; set; }
+
+        public List<Order> Orders { get; set; }
     }
 }
