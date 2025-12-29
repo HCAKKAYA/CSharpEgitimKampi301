@@ -13,3 +13,5 @@ C:\Users\Data Bilgisayar\Documents\C#_egitim_kampi\CSharpEgitimKampi301\CSharpEg
 C:\Users\Data Bilgisayar\Documents\C#_egitim_kampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.CopyComplete
 C:\Users\Data Bilgisayar\Documents\C#_egitim_kampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.exe
 C:\Users\Data Bilgisayar\Documents\C#_egitim_kampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.pdb
+C:\Users\Data Bilgisayar\Documents\C#_egitim_kampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmLocation.resources
+C:\Users\Data Bilgisayar\Documents\C#_egitim_kampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmStatistics.resources
